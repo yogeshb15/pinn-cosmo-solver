@@ -1,0 +1,6 @@
+PINN-CosmoSolver results
+=========================
+Model: dH/dt = -1.5(1+w)H^2 + 1.5*zeta0*H^2 + 1.5*zeta1*H^3, w=-0.9, zeta0=0.05, zeta1=0.1, H(0)=1.0
+RMS absolute error vs RK45: 2.551e-05
+Max relative error        : 0.004%
+Training: 3000 L-BFGS-B iterations, final loss 2.839e-09
